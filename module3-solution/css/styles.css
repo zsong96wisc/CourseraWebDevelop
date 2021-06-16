@@ -62,6 +62,7 @@ h2 {
 #main-item {
   background-color: cadetblue;
   color: #61122f;
+  margin-bottom: 50px;
 }
 
 .item-title {
@@ -69,6 +70,10 @@ h2 {
   margin-bottom: 10px;
   font-size: 1.3em;
   font-weight: bold;
+}
+
+.item-title p {
+  margin-bottom: 20px;
 }
 
 @media (max-width: 767px) {
